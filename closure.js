@@ -1,4 +1,4 @@
-
+// hello world!
 
 function mainFunction () {
   var a = 2;
